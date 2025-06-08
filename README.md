@@ -2,6 +2,8 @@
 
 Repositório de demonstração de uso da ferramenta de criação de "agentes" do MS Copilot Studio, como parte do Curso de Formação em MS CoPilot Studio da DIO pelo professor Renato Romão.
 
+À medida que formos avançando no curso, novas demonstrações e ferramentas serão exibidas nesse repositório.
+
 REQUISITOS:
 
 Ter acesso a uma conta do M365
@@ -33,8 +35,6 @@ CRIAR UM COPILOTO EM BRANCO
 Para criação de um Copiloto baseado em IA ou em Branco, as instruções são bem semelhantes e intuitivas com base na descrição acima (Copiloto Baseado em Modelo).
 Podemos iniciar a criação clicando no botão 'Criar' na barra lateral esquerda do site e, em seguida, clicamos no botão 'Novo Agente'.
 Em seguida, o preenchimento é feito com base no preenchimento de campos descritivos, que servirão como base de informação para que a IA da Microsoft crie o Copiloto que desejamos.
-
-LINKS ÚTEIS:
 
 LINKS ÚTEIS
 
